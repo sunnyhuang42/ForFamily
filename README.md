@@ -1,7 +1,7 @@
 # Weave of My Family Life
 
 
-## Why will this project start ？
+## Why did I start this project?
 
 
 一路走来，不时反思，如果我能重塑走过的路，我会改变什么？
@@ -14,17 +14,17 @@
 
 - [如果你也在天上挑妈妈 · 家书 000](http://ishanshan.top/murmur/LetterFamily000Baby.html) 
 - [如果我来陪你走一程 | 养娃清单](https://github.com/ishanshan/ForFamily/blob/master/HbBreeding.md)
-- [我关注的育儿 role model]()
+- [我关注的育儿 role model]()(TBD)
 
 
 关于生活方式：
 
-- [简单生活行动清单]()
+- [简单生活行动清单]()(TBD)
 - 理财
 - ……
 
 
-## How to contribute ？
+## How to contribute？
 
 
 欢迎探讨，提出建议。你可以[提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/ForFamily/issues) 交流。
