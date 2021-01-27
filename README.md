@@ -21,6 +21,7 @@
 
 - [如何借时代便利，增父母安康 · 关爱家人行动清单](https://ishanshan.im/tool/TipsCare4Parents)
 - [简单生活行动清单]()(TBD)
+- [买保险的经验教训](https://github.com/ishanshan/ForFamily/blob/master/HbInsurance.md)
 - 理财
 - ……
 
@@ -41,6 +42,7 @@
 
 ## Changelog 
 
+- 210127 闪闪增补买保险的经验教训
 - 180828 闪闪增补关爱家人行动清单
 - 180124 闪闪添加 CC-BY-SA 4.0 license
 - 171125 闪闪创建
