@@ -1,11 +1,12 @@
 # 面部健康生长指南
 
 
-2020 年夏天，我机缘巧合接触 orthotropics 理论并开始练习后，面容发生了不小的改变，堪比整容。具体可见。。。（待增补）
+
+2020 年夏天，我机缘巧合接触 orthotropics 理论并开始练习后，面容发生了不小的改变，堪比整容。具体可见[我如何成为换头最快的1%？- 过去8个月的面容调整复盘 - ishanshan's blog](https://ishanshan.im/selfedu/tool/ReviewFacialGrowth) 。
 
 很开心看到越来越多朋友也加入到练习的队伍，逐步长出基因里最健康最美的样子。
 
-练习过程难免有疑问，遂把汇总练习过程常见疑问，持续更新中。如果你有疑问建议，欢迎直接 pull request ，或在这里留言交流：
+练习过程难免有疑问，遂汇总练习过程常见疑难，供有需要的伙伴参考，持续更新中。如果你有疑问建议，欢迎直接 pull request ，或在这里留言交流：
 1. 这个仓库的讨论区 [Discussions · ishanshan/ForFamily](https://github.com/ishanshan/ForFamily/discussions)：适合那些需要提供较长背景信息的留言
 2. 我的视频号：
     
@@ -29,7 +30,7 @@
 1. 推荐在公众号「天朝外貌邪会」里刨。别被名字吓到，他们只是想揶揄一下。比较关键的是这几篇老文：
     * [【长文】从基础讲正确姿势，及为什么Chelsea Clinton这么丑](https://mp.weixin.qq.com/s/4MsuWmoZOSn5pvzxpCYO2w)
     * [做对这几件事，你也能进化出影星般的脸部结构](https://mp.weixin.qq.com/s/tuGy2msDLgrx0g5LZcPR5g)
-2. 如果想更系统地学习练习，或者你希望让牙齿更整齐，建议上「天朝外貌邪会」和 Dr.Mew 合作的课程，付费就是捡便宜：[Orthotropics自然颅面部发育系列课程](https://shop43226290.youzan.com/wscvis/course/detail/35vkuu04ofl2i?kdt_id=43034122&sls=o5FHQR&from_params=sl~o5FHQR%21online_kdt_id~43034122&sl=o5FHQR&st=2)
+2. 如果想更系统地学习练习，或者你希望让牙齿更整齐，建议上「天朝外貌邪会」和 Dr.Mew 合作的课程，付费就是捡便宜：[Orthotropics自然颅面部发育系列课程](https://j.youzan.com/5VX3J2)
 
     关于这个课程我多说几句，供你评估是否使用、如何使用：
     * 其实本来没想推荐这个课程，因为觉得关键点就是 Tongue Posture，B站上也有不少视频。但这几天看了一圈中文世界的材料，发现一般只讲顶上颚，很少讲吞咽，而且内容单薄、零散，好些注意事项都没讲。所以还是推荐一下，何况只要不到 300 块。
