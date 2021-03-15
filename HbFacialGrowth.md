@@ -30,7 +30,7 @@
 1. 推荐在公众号「天朝外貌邪会」里翻。别被这个公众号名字吓到，他们只是想揶揄一下。比较关键的是这几篇老文：
     * [【长文】从基础讲正确姿势，及为什么Chelsea Clinton这么丑](https://mp.weixin.qq.com/s/4MsuWmoZOSn5pvzxpCYO2w)
     * [做对这几件事，你也能进化出影星般的脸部结构](https://mp.weixin.qq.com/s/tuGy2msDLgrx0g5LZcPR5g)
-2. 如果想更系统地学习练习，尤其是希望让牙齿更整齐，建议上「天朝外貌邪会」和 Dr.Mew 合作的课程：[Orthotropics自然颅面部发育系列课程](https://j.youzan.com/5VX3J2)
+2. 如果想更系统地学习练习，尤其是希望让牙齿更整齐，建议上「天朝外貌邪会」和 Dr.Mew 合作的课程：[Orthotropics自然颅面部发育系列课程](https://shop43226290.youzan.com/wscvis/course/detail/35vkuu04ofl2i?kdt_id=43034122&sls=o5FHQR&from_params=sl~o5FHQR%21online_kdt_id~43034122&edu=INVITE_CARD%3A%3ADYNAMIC)
 
     关于这个课程我多说几句，供你评估是否使用、如何使用：
     * 其实本来没想推荐这个课程，因为觉得关键点就是舌头姿势(tounge posture)，B站上也有不少视频。但这几天看了一圈中文世界的材料，发现一般只讲顶上颚，很少讲吞咽，而且内容单薄、零散，好些注意事项都没讲。所以还是推荐一下，何况只要不到 300 块——相较你和亲友能省下的正畸或整形钱，这投资真是太值了。
