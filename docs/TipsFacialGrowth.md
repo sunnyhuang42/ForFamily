@@ -1,45 +1,31 @@
-# 面部健康生长指南
+# 常见疑问&练习锦囊 - 面部健康生长
 
 
 
-2020 年夏天，我机缘巧合接触 orthotropics 理论并开始练习后，面容发生了不小的改变，堪比换头。具体可见[我如何成为换头最快的1%？- 过去8个月的面容调整复盘 - ishanshan's blog](https://ishanshan.im/#/selfedu/RevFacialGrowth) 。
+2020 年夏天，机缘巧合我接触了 orthotropics 理论并开始练习后，面容发生了不小改变，堪比换头。具体可见[我如何成为换头最快的1%？- 过去8个月的面容调整复盘](https://ishanshan.im/#/selfedu/RevFacialGrowth) 。
 
 很开心看到越来越多朋友也加入到练习的队伍，逐步长出基因里最健康最美的样子。
 
-练习过程难免有疑问，遂汇总练习过程常见疑难，供有需要的伙伴参考，持续更新中。如果你有疑问建议，欢迎直接 pull request ，或在这里留言交流：
-1. 这个仓库的讨论区 [Discussions · ishanshan/ForFamily](https://github.com/ishanshan/ForFamily/discussions)：适合那些需要提供较长背景信息的留言
-2. 我的视频号：
+<br> 
+
+虽有[学习资源](family/ResFacialGrowth.md)，但练习过程难免有疑问，遂汇总练习过程常见疑难，供有需要的伙伴参考，持续更新中。
+
+如果你有疑问建议，欢迎直接留言交流，或移步以下渠道：
+
+1. 我的知识星球 [闪闪的人生实验室](https://t.zsxq.com/Vrzji2B)：这是我朋友圈的升级版，主要分享一些日常思考记录，以及积累关于「健康蓬勃 温暖从容」生活的工具方法、经验教训。
+
+2. 我的视频号「闪闪的人生实验室」 ：一些更适合视频分享的经验教训、工具方法，我会陆续放到视频号里。不过刚起步，欢迎催更增强我更新的动力哈哈：P
     
-    ![qr_wechatvedio_ishanshan.jpeg](http://ishanshan.zoomquiet.top/share/qr_wechatvedio_ishanshan.jpeg?imageView2/2/w/200)
+    ![qr_wechatvedio_ishanshan.jpeg](http://ishanshan.zoomquiet.top/share/qr_wechatvedio_ishanshan.jpeg?imageView2/2/w/400  ':size=150')
+
+    
 
 
 
 
 
-## 学习材料
 
-如果你想快速学习开始练习让脸健康生长，可以直接搜「orthotropics」或 「mewing」，或参考以下材料：
-
-**如果你可以阅读英文材料，且有梯子**：
-1. 推荐直接看这篇：[Proper Tongue Posture Guide 2021 – Mewingpedia](https://mewingpedia.com/proper-tongue-posture-guide/)
-2. 想了解更多，可以看这些：
-    * [Mewingpedia – Mewing Guide and Techniques](https://mewingpedia.com/)
-    * [Orthotropics - YouTube](https://www.youtube.com/channel/UC6eh59CVGAMTjxo6q9gCMZA)
-
-**如果你想要中文材料**：
-1. 推荐在公众号「天朝外貌邪会」里翻。别被这个公众号名字吓到，他们只是想揶揄一下。比较关键的是这几篇老文：
-    * [【长文】从基础讲正确姿势，及为什么Chelsea Clinton这么丑](https://mp.weixin.qq.com/s/4MsuWmoZOSn5pvzxpCYO2w)
-    * [做对这几件事，你也能进化出影星般的脸部结构](https://mp.weixin.qq.com/s/tuGy2msDLgrx0g5LZcPR5g)
-2. 如果想更系统地学习练习，尤其是希望让牙齿更整齐，建议上「天朝外貌邪会」和 Dr.Mew 合作的课程：[Orthotropics自然颅面部发育系列课程](https://shop43226290.youzan.com/wscvis/course/detail/35vkuu04ofl2i?kdt_id=43034122&sls=o5FHQR&from_params=sl~o5FHQR%21online_kdt_id~43034122&edu=INVITE_CARD%3A%3ADYNAMIC)。
-
-    关于这个课程我多说几句，供你评估是否使用、如何使用：
-    * 其实本来没想推荐这个课程，因为觉得关键点就是舌头姿势(tounge posture)，B站上也有不少视频。但这几天看了一圈中文世界的材料，发现一般只讲顶上颚，很少讲吞咽，而且内容单薄、零散，好些注意事项都没讲。所以还是推荐一下，何况只要不到 300 块——相较你和亲友能省下的正畸或整形钱，这投资真是太值了。点[这里](http://ishanshan.zoomquiet.top/share/qr_mewing_discount.png)还可以领 10 元优惠券。
-    * 当初我是先看了公众号的文章，然后报了课以更系统了解，再全网查不同声音来评估这套理论的可靠程度。课程有 50 节，但别被吓到，每节也就几分钟，当时我集中精力一个早上就倍速看完了。
-    * 如果你从上述链接购买，我会获得自带的推广奖励。所以如果你觉得分享的内容对你有帮助，欢迎从上述链接报名，算是对我继续分享实践反思的鼓励：）
-
-
-
-## FAQ
+## 问题列表
 
 
 ### 自己只能舌尖顶上颚，很难舌根顶上颚，怎么办？
@@ -76,7 +62,8 @@
 起步的时候的确比较难，不过是有方法去降低习惯养成门槛的。最有效和常用的，是和已有习惯/行为绑定起来，让自己更多时候想起要做这个事情。比如课程里提到的，摸门把手的时候，就检查一下舌根是否顶上颚了。此外我自己当时在用的，就是喝水的时候，也会检查和刻意练习一下。两三周后，就逐步成习惯了。
 
 现在还有同学尝试了更高频的方案：把的我照片记录设成手机屏保，一摸手机就提醒和激励自己😂
-![facechange09.jpg](http://ishanshan.zoomquiet.top/share/facechange09.jpg?imageView2/2/w/400)
+
+![facechange09.jpg](http://ishanshan.zoomquiet.top/share/facechange09.jpg?imageView2/2/w/500  ':size=100')
 
 ### 感觉自己变化不大，不太想练了怎么办？
 
