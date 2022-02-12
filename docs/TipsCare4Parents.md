@@ -102,9 +102,17 @@
 
 暂时想到这些。如果你有好的行动建议，也和我分享呀~
 
+---
+
+读者留言：
+
+![blogcomment_care4parent.png](http://ishanshan.zoomquiet.top/share/blogcomment_care4parent.png)
+
+^截图于 210525
 
 ## CHANGELOG
 
+- 210920 附上过往读者留言
 - 210315 更新图片地址，以便 chrome 浏览器查看
 - 201007 修改关爱家人行动清单链接为腾讯文档，减少登陆干扰
 - 180829 修订措辞
